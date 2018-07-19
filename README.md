@@ -1,5 +1,5 @@
- Every company wants to succeed and gain an edge on the competition. Achieving the revenue goals translates into maximizing sales. Many companies distribute their goods at physical Point Of Sales (POSs). For all of them the challenge is to devise a strategy that will drive the sales at POSs. Possible solution could be to place the product in the most convenient location for consumers. THe tast is to figure out what surroundings and respective amenities lead to top POS performance. 
-For performing this analysis, please use following data sources:
+ Every company wants to succeed and gain an edge on the competition. Achieving the revenue goals translates into maximizing sales. Many companies distribute their goods at physical Point Of Sales (POSs). For all of them the challenge is to devise a strategy that will drive the sales at POSs. Possible solution could be to place the product in the most convenient location for consumers. The task is to figure out what surroundings and respective amenities lead to top POS performance. 
+For performing this analysis,following data sources are used:
 
 
 
